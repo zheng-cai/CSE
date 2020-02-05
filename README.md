@@ -27,7 +27,7 @@ a function.
 Execution
 -----------
 
-Assuming your executable is called "hangman", run it using
+Assuming your executable is called "A1", run it using
 
     ./A1
 
